@@ -24,7 +24,6 @@ Maps_List = {
         spawn = {2400,-540,195},
         pak = {
             name = "Industrial_Area",
-            projetName = "Industrial_Area",
             path = "/Industrial_Area/industrial_area/Maps/industrial_area"
         }
     },
@@ -34,7 +33,6 @@ Maps_List = {
         spawn = {67,236,201},
         pak = {
             name = "Factory",
-            projetName = "Factory",
             path = "/Factory/AbandonedFactory/Maps/Warehouse_02_night/Main_Warehouse_02"
         }
     }
@@ -69,7 +67,6 @@ Maps_List = {
         spawn = {2400,-540,195}, -- Default spawn position (x, y, z).
         pak = {
             name = "Your map file name", -- Exemple (Industrial_Area)
-            projetName = "Root Path", -- Exemple (Industrial_Area)
             path = "Map Path" -- Exemple (/Industrial_Area/industrial_area/Maps/industrial_area)
         }
     }
