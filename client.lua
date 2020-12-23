@@ -6,7 +6,7 @@ AddCommand("map", function(mapId)
 
     if GetWorld():GetMapName() ~= Map.pak.name then
         
-        if not LoadPak(Map.pak.name,"/"..Map.pak.name.."/","../../../OnsetModding/Plugins/"..Map.pak.projetName.."/Content/") then
+        if not LoadPak(Map.pak.name) then
             AddPlayerChat("[ERROR] Error then package of map "..Map.name.." loading, edit your config file !")
             return
         end
