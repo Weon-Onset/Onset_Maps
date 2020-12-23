@@ -80,6 +80,12 @@ Maps_List = {
 - [Onset Wiki Modding](https://dev.playonset.com/wiki/Modding)
 - [Onset Wiki Custom Maps](https://dev.playonset.com/wiki/Custom_Maps)
 
+# Commands
+```lua
+/maplist -- return list of maps
+/map (id) -- load maps by id
+```
+
 ## Made with ❤ by
 
 - Philip J. Fry#2883
