@@ -81,7 +81,7 @@ Maps_List = {
 - [Onset Wiki Custom Maps](https://dev.playonset.com/wiki/Custom_Maps)
 
 # Commands
-```lua
+```
 /maplist -- return list of maps
 /map (id) -- load maps by id
 ```
