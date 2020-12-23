@@ -83,7 +83,7 @@ Maps_List = {
 # Commands
 ```
 /maplist -- return list of maps
-/map (id) -- load maps by id
+/map (id) -- load map by id
 ```
 
 ## Made with ❤ by
