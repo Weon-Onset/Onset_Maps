@@ -1,0 +1,12 @@
+{
+  "author": "Weon Fry",
+  "version": "1.0",
+  "client_scripts": [
+    "client.lua",
+    "config.lua"
+  ],
+  "files": [
+    "maps/Factory.pak",
+    "maps/Industrial_Area.pak"
+  ]
+}
